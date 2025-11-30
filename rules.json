@@ -1,0 +1,14 @@
+{
+    "roro": {
+        "refill_rate": 2,
+        "capacity": 10
+    },
+    "hittero": {
+        "refill_rate": 3,
+        "capacity": 5
+    },
+    "default": {
+        "refill_rate": 2,
+        "capacity": 5
+    }
+}
